@@ -6,3 +6,4 @@ It is optimised to be viewed on all screen sizes including -<ul><li>Mobile Phone
 It currently in a semi-complete stage and further additions will include the dynamic data entry using Javascript.<br>
 <br>
 Check out the Website by clicking <a href="https://amantahiliani.github.io/Restaurant-Website/">here</a>
+Made with the help of Coursera course on HTML, Javascript and CSS 
